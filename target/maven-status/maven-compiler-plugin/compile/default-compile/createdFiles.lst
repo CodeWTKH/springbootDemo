@@ -1,0 +1,8 @@
+com\yisquare\mapper\UserMapper.class
+com\yisquare\wm\WmController.class
+com\yisquare\mapper\ErrorMsgMapper.class
+com\yisquare\domain\ErrorMsg.class
+com\yisquare\domain\User.class
+com\yisquare\web\ErrorMsgController.class
+com\yisquare\Application.class
+com\yisquare\service\ErrorMsgService.class
